@@ -18,7 +18,7 @@ export default function AboutSection() {
               <div className="absolute -inset-4 bg-primary/10 rounded-3xl rotate-3" />
               <div className="absolute -inset-4 bg-accent/10 rounded-3xl -rotate-2" />
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-                <Image src="/Iceland_portrait.jpg" alt="About me" width={500} height={600} className="object-cover" />
+                <Image src="/iceland_portrait.JPG" alt="About me" width={500} height={600} className="object-cover" />
               </div>
 
             
