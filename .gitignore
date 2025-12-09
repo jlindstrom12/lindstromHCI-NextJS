@@ -1,3 +1,12 @@
+# Add this to .gitignore
 node_modules/
 .next/
-node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node
+out/
+build/
+dist/
+.DS_Store
+*.log
+.env
+.env.local
+.env.production.local
+.env.development.local
